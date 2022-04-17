@@ -1,3 +1,0 @@
- this is the django project file
- create a web app
- thats it from this file
