@@ -1,0 +1,5 @@
+this file is made for django project
+
+
+
+developa web app in this file..
